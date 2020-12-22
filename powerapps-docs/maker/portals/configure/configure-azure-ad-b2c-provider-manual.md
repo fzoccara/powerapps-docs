@@ -68,7 +68,7 @@ In this article, learn how to configure Azure Active Directory B2C as the identi
 
             ![Enable implicit grant flow with ID tokens](media/authentication/id-tokens-b2c.png "Enable implicit grant flow with ID tokens")
 
-        1. Under **Implicit grant**, select the **ID tokens** check box.
+        1. Under **Implicit grant**, select the **Access tokens** check box.
 
         1. Select **Save**.
 
